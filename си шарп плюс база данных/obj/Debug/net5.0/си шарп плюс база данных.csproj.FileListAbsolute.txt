@@ -1,0 +1,74 @@
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\appsettings.json
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\си шарп плюс база данных.exe
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\си шарп плюс база данных.deps.json
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\си шарп плюс база данных.runtimeconfig.json
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\си шарп плюс база данных.runtimeconfig.dev.json
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\си шарп плюс база данных.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\ref\си шарп плюс база данных.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\си шарп плюс база данных.pdb
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\си шарп плюс база данных.Views.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\си шарп плюс база данных.Views.pdb
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.csproj.AssemblyReference.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.AssemblyInfoInputs.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.AssemblyInfo.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.csproj.CoreCompileInputs.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.RazorAssemblyInfo.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.RazorAssemblyInfo.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\scopedcss\bundle\си шарп плюс база данных.styles.css
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\staticwebassets\си шарп плюс база данных.StaticWebAssets.Manifest.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.TagHelpers.input.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.TagHelpers.output.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.RazorCoreGenerate.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.RazorTargetAssemblyInfo.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.RazorTargetAssemblyInfo.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.Views.pdb
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.csproj.CopyComplete
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\ref\си шарп плюс база данных.dll
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.pdb
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\си шарп плюс база данных.genruntimeconfig.cache
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Sacha\Desktop\МОи проекти\си шарп плюс база данных\си шарп плюс база данных\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs

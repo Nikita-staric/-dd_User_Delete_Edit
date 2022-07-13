@@ -1,0 +1,25 @@
+﻿@model IEnumerable<си_шарп_плюс_база_данных.Models.User>
+@{
+    ViewBag.Title = "Все пользователи";
+}
+<a asp-action="Create">Добавить пользователя</a>
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>@item.Name</td>
+        <td>@item.Age</td>
+        <td>
+            <a asp-action="Details" asp-controller="Home" asp-route-id="@item.Id">Подробнее</a> |
+
+            <a asp-action="Edit" asp-controller="Home" asp-route-id="@item.Id">Изменить</a> |
+            <form asp-controller="Home" asp-action="Delete" method="post" asp-route-id="@item.Id">
+                <input type="submit" value="Удалить" />
+            </form>
+
+            @*<a asp-action="Delete" asp-controller="Home" method="post" type="submit" asp-route-id="@item.Id">Удалить</a>*@
+        </td>
+    </tr>
+    }
+    </table>
